@@ -1,0 +1,24 @@
+# Core Dependencies
+langchain
+langchain-community
+chromadb
+faiss-cpu  # Use faiss-gpu if you have CUDA
+numpy
+requests
+sentence-transformers
+python-dotenv
+openai
+
+# Document Processing Libraries
+unstructured
+pdf2image
+pdfminer.six
+pypdf
+python-pptx
+python-docx
+pandas
+docx2txt
+openpyxl
+
+# Web Framework for UI
+streamlit
